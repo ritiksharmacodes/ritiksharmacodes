@@ -12,6 +12,5 @@ I'm Ritik sharma. A college student aspiring to be a web developer
   <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />                 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />          
-</p>
-<br><br>
+</p><br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ritiksharmacodes)](https://git.io/streak-stats)
