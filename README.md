@@ -2,7 +2,7 @@
 I'm Ritik sharma. A college student aspiring to be a web developer
 
 <h3>Tools I have used and learned:</h3>
-<p style="display:flex; gap: 20px;">
+<p>
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />          
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
