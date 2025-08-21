@@ -3,7 +3,6 @@ I'm Ritik sharma. A college student aspiring to be a web developer
 
 <h3>Things I code with</h3>
 <p>
-  
-            <i class="devicon-html5-plain-wordmark colored"></i>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                
 </p>
