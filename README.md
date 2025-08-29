@@ -14,4 +14,4 @@ I'm Ritik sharma. A college student aspiring to be a web developer
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />          
 </p>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.heroku.com?user=ritiksharmacodes" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-woad.vercel.app?user=ritiksharmacodes" alt="GitHub Streak" /></a>
